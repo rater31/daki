@@ -10,8 +10,22 @@ function App() {
     <>
      <Nav></Nav>
      <Carrusel/>
-     <Cards description={{imagen:g,titulo:"hola",precio:""}}></Cards>
+     <div className='flex justify-around'>
+          <Cards 
+          imagen={remeraMarron}
+          titulo="Musculosa Top Beig"
+          precio="$7900"></Cards>
+          <Cards 
+          imagen={remeraMarron}
+          titulo="Musculosa Top Beig"
+          precio="$7900"></Cards>
+          <Cards 
+          imagen={remeraMarron}
+          titulo="Musculosa Top Beig"
+          precio="$7900"></Cards>
+     </div>
     </>
+    
   )
 }
 
