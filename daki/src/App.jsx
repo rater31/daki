@@ -1,6 +1,8 @@
 import './App.css'
 import Carrusel from './components/Carrusel'
 import Nav from './components/Nav'
+import Cards from './components/Cards'
+import remeraMarron from './assets/img/musculosa-top-beig.jpg'
 
 function App() {
 
@@ -8,6 +10,7 @@ function App() {
     <>
      <Nav></Nav>
      <Carrusel/>
+     <Cards description={{imagen:g,titulo:"hola",precio:""}}></Cards>
     </>
   )
 }
