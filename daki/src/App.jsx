@@ -3,6 +3,8 @@ import Carrusel from './components/Carrusel'
 import Nav from './components/Nav'
 import Cards from './components/Cards'
 import remeraMarron from './assets/img/musculosa-top-beig.jpg'
+import productos from './productos.json'
+
 
 function App() {
 
@@ -10,7 +12,10 @@ function App() {
     <>
      <Nav></Nav>
      <Carrusel/>
-     <Cards description={{imagen:g,titulo:"hola",precio:""}}></Cards>
+     {/* <Cards description={{imagen:remeraMarron,titulo:"asd",precio:"12213"}}></Cards> */}
+     {productos.map(item => (
+      <Cards  description={{titulo:[item.name]}}/>
+     ))}
     </>
   )
 }
