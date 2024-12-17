@@ -1,14 +1,14 @@
 [
     {
     "id":1,
-    "name":"John",
+    "name":"Musculosa Marron",
     "price":"$123",
-    "descri":"This is a product"
+    "imagen":"./assets/img/musculosa-top-beig.jpg"
     },
     {
     "id":2,
-    "name":"Jane",
+    "name":"Musculosa Blanca",
     "price":"$456",
-    "descri":"This is another product"
+    "imagen":""
     }
 ]
