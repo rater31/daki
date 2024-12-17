@@ -2,8 +2,8 @@ import './App.css'
 import Carrusel from './components/Carrusel'
 import Nav from './components/Nav'
 import Cards from './components/Cards'
-import remeraMarron from './assets/img/musculosa-top-beig.jpg'
-import productos from './productos.json'
+import productos from './productosDestacados.json'
+import Ofertas from './components/Ofertas'
 
 
 function App() {
@@ -12,10 +12,12 @@ function App() {
     <>
      <Nav></Nav>
      <Carrusel/>
-     {/* <Cards description={{imagen:remeraMarron,titulo:"asd",precio:"12213"}}></Cards> */}
+    <div className='flex justify-around'>
      {productos.map(item => (
-      <Cards  description={{titulo:[item.name]}}/>
+      <Cards titulo={item.name} imagen={item.imagen} precio={item.price}/>
      ))}
+    </div>
+    <Ofertas/>
     </>
   )
 }
