@@ -1,0 +1,20 @@
+[
+    {
+    "id":1,
+    "name":"Vestido",
+    "price":"$123",
+    "imagen":"../public/img/vestido.jpg"
+    },
+    {
+    "id":2,
+    "name":"Top Blanca",
+    "price":"$456",
+    "imagen":"../public/img/top-blanco.jpg"
+    },
+    {
+        "id":3,
+        "name":"Remera Verde",
+        "price":"$700",
+        "imagen":"../public/img/remera-verde.jpg"
+    }
+]

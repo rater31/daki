@@ -2,8 +2,8 @@ import './App.css'
 import Carrusel from './components/Carrusel'
 import Nav from './components/Nav'
 import Cards from './components/Cards'
-import remeraMarron from './assets/img/musculosa-top-beig.jpg'
-import productos from './productos.json'
+import productos from './productosDestacados.json'
+import Ofertas from './components/Ofertas'
 
 
 function App() {
@@ -17,6 +17,7 @@ function App() {
       <Cards titulo={item.name} imagen={item.imagen} precio={item.price}/>
      ))}
     </div>
+    <Ofertas/>
     </>
   )
 }
