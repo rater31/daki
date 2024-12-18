@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Remera Marron",
+        "stock":5,
+        "price":"$10.000",
+        "categoria":"remera"
+    },
+    {
+        "id":1,
+        "name":"Remera Marron",
+        "stock":5,
+        "price":"$10.000",
+        "categoria":"remera"
+    },
+    {
+        "id":1,
+        "name":"Remera Marron",
+        "stock":5,
+        "price":"$10.000",
+        "categoria":"remera"
+    }, 
+    {
+        "id":1,
+        "name":"Remera Marron",
+        "stock":5,
+        "price":"$10.000",
+        "categoria":"remera"
+    },
+    {
+        "id":1,
+        "name":"Remera Marron",
+        "stock":5,
+        "price":"$10.000",
+        "categoria":"remera"
+    },
+    {
+        "id":1,
+        "name":"Pantalon Marron",
+        "stock":5,
+        "price":"$10.000",
+        "categoria":"remera"
+    }
+]
