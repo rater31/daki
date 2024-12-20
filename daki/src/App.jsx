@@ -6,6 +6,8 @@ import productosDestacados from './productosDestacados.json'
 import Ofertas from './components/Ofertas'
 import Productos from './components/Productos'
 import productos from './productos.json'
+import Contact from './components/Contact'
+import Footer from './components/Footer'
 
 
 function App() {
@@ -20,13 +22,15 @@ function App() {
      ))}
     </div>
     <Ofertas/>
-    <div className='grid grid-cols-3 gap-4 mx-5'>
+    <div className='flex justify-around gap-4 flex-wrap mx-5 my-5'>
 
       {productos.map(items =>(
           
           <Cards  titulo={items.name} imagen={items.imagen} precio={items.price}/>
       ))}
     </div>
+    <Contact/>
+    <Footer/>
     </>
   )
 }
