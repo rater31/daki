@@ -4,7 +4,6 @@ import Nav from './components/Nav'
 import Cards from './components/Cards'
 import productosDestacados from './productosDestacados.json'
 import Ofertas from './components/Ofertas'
-import Productos from './components/Productos'
 import productos from './productos.json'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
@@ -22,7 +21,7 @@ function App() {
      ))}
     </div>
     <Ofertas/>
-    <div className='flex justify-around gap-4 flex-wrap mx-5 my-5'>
+    <div className='grid grid-cols-4 gap-4 mx-32 my-10'>
 
       {productos.map(items =>(
           

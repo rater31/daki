@@ -4,111 +4,142 @@
         "name":"Remera Marron",
         "stock":5,
         "price":"$10.000",
-        "categoria":"remera"
+        "categoria":"remera",
+        "imagen":"../public/img/top-blanco.jpg"
     },
     {
         "id":1,
         "name":"Remera Marron",
         "stock":5,
         "price":"$10.000",
-        "categoria":"remera"
+        "categoria":"remera",
+        "imagen":"../public/img/top-blanco.jpg"
+
     },
     {
         "id":1,
         "name":"Remera Marron",
         "stock":5,
         "price":"$10.000",
-        "categoria":"remera"
+        "categoria":"remera",
+        "imagen":"../public/img/top-blanco.jpg"
+
     }, 
     {
         "id":1,
         "name":"Remera Marron",
         "stock":5,
         "price":"$10.000",
-        "categoria":"remera"
+        "categoria":"remera",
+        "imagen":"../public/img/top-blanco.jpg"
+
     },
     {
         "id":1,
         "name":"Remera Marron",
         "stock":5,
         "price":"$10.000",
-        "categoria":"remera"
+        "categoria":"remera",
+        "imagen":"../public/img/top-blanco.jpg"
+
     },
     {
         "id":1,
         "name":"Pantalon Marron",
         "stock":5,
         "price":"$10.000",
-        "categoria":"remera"
+        "categoria":"remera",
+        "imagen":"../public/img/top-blanco.jpg"
+
     },
     {
         "id":1,
         "name":"Pantalon Marron",
         "stock":5,
         "price":"$10.000",
-        "categoria":"remera"
+        "categoria":"remera",
+        "imagen":"../public/img/top-blanco.jpg"
+
     },
     {
         "id":1,
         "name":"Pantalon Marron",
         "stock":5,
         "price":"$10.000",
-        "categoria":"remera"
+        "categoria":"remera",
+        "imagen":"../public/img/top-blanco.jpg"
+
     },
     {
         "id":1,
         "name":"Pantalon Marron",
         "stock":5,
         "price":"$10.000",
-        "categoria":"remera"
+        "categoria":"remera",
+        "imagen":"../public/img/top-blanco.jpg"
+
     },
     {
         "id":1,
         "name":"Pantalon Marron",
         "stock":5,
         "price":"$10.000",
-        "categoria":"remera"
+        "categoria":"remera",
+        "imagen":"../public/img/top-blanco.jpg"
+
     },
     {
         "id":1,
         "name":"Pantalon Marron",
         "stock":5,
         "price":"$10.000",
-        "categoria":"remera"
+        "categoria":"remera",
+        "imagen":"../public/img/top-blanco.jpg"
+
     },
     {
         "id":1,
         "name":"Pantalon Marron",
         "stock":5,
         "price":"$10.000",
-        "categoria":"remera"
+        "categoria":"remera",
+        "imagen":"../public/img/top-blanco.jpg"
+
     },
     {
         "id":1,
         "name":"Pantalon Marron",
         "stock":5,
         "price":"$10.000",
-        "categoria":"remera"
+        "categoria":"remera",
+        "imagen":"../public/img/top-blanco.jpg"
+
     },
     {
         "id":1,
         "name":"Pantalon Marron",
         "stock":5,
         "price":"$10.000",
-        "categoria":"remera"
+        "categoria":"remera",
+        "imagen":"../public/img/top-blanco.jpg"
+
     },
     {
         "id":1,
         "name":"Pantalon Marron",
         "stock":5,
         "price":"$10.000",
-        "categoria":"remera"
+        "categoria":"remera",
+        "imagen":"../public/img/top-blanco.jpg"
+
     },
     {
         "id":1,
         "name":"Pantalon Marron",
         "stock":5,
         "price":"$10.000",
-        "categoria":"remera"
+        "categoria":"remera",
+        "imagen":"../public/img/top-blanco.jpg"
+
     }
 ]
